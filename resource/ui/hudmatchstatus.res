@@ -271,7 +271,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"HudFontMediumSmall"
+			"font"			"HudFontMediumSmallBold"
 			"font_minmode"	"HudFontSmall"
 			"font_lodef"	"HudFontMedium"
 			"fgcolor"		"TanLight"
@@ -593,7 +593,7 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"		"BlueTeamBG"
-			"xpos"			"0"
+			"xpos"			"300"
 			"ypos"			"10"
 			"zpos"			"2"
 			"wide"			"147"
