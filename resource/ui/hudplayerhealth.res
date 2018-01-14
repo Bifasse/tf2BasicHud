@@ -5,8 +5,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-390"		[$WIN32]
-		"ypos"			"c100"	[$WIN32]
+		"xpos"			"0"		[$WIN32]
+		"ypos"			"c+150"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"190"
 		"tall"			"110"
@@ -20,7 +20,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"75"
+		"xpos"			"5"
 		"ypos"			"25"
 		"zpos"			"4"
 		"wide"			"20"
@@ -33,7 +33,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"74"
+		"xpos"			"4"
 		"ypos"			"24"
 		"zpos"			"3"
 		"wide"			"23"
@@ -47,9 +47,9 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"0"	[$WIN32]
-		"ypos"			"22"	[$WIN32]
-		"zpos"			"2"
+		"xpos"			"-5000"	[$WIN32]
+		"ypos"			"5000"	[$WIN32]
+		"zpos"			"-1"
 		"wide"			"0"	[$WIN32]
 		"tall"			"0"	[$WIN32]
 		"visible"		"0"
@@ -61,7 +61,7 @@
 	{
 		"ControlName" 	"ImagePanel"
 		"fieldName"		"HealthBG"
-		"xpos"			"50"
+		"xpos"			"0"
 		"ypos"			"21"
 		"zpos"			"-1"
 		"wide"			"140"
@@ -75,7 +75,7 @@
 	{
 		"ControlName" 	"ImagePanel"
 		"fieldName"		"HealthBGBuff"
-		"xpos"			"50"
+		"xpos"			"0"
 		"ypos"			"21"
 		"zpos"			"0"
 		"wide"			"140"
@@ -89,7 +89,7 @@
 	{
 		"ControlName" 	"ImagePanel"
 		"fieldName"		"HealthBGHurt"
-		"xpos"			"50"
+		"xpos"			"0"
 		"ypos"			"21"
 		"zpos"			"0"
 		"wide"			"140"
@@ -103,7 +103,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"HudHealthTeamLine"
-		"xpos"			"188"
+		"xpos"			"138"
 		"ypos"			"21"
 		"zpos"			"1"
 		"wide"			"4"
@@ -125,7 +125,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"101"
+		"xpos"			"51"
 		"ypos"			"23"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"55"
@@ -141,7 +141,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueBG"
-		"xpos"			"103"
+		"xpos"			"53"
 		"ypos"			"25"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"55"
@@ -157,7 +157,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusMaxHealthValue"
-		"xpos"			"120"
+		"xpos"			"70"
 		"ypos"			"34"	[$WIN32]
 		"zpos"			"6"
 		"wide"			"100"
@@ -169,6 +169,7 @@
 		"font"			"HudFontSmallBold"
 		"fgcolor"		"100 100 100 200"
 	}
+
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -256,8 +257,8 @@
 		"xpos"			"140"
 		"ypos"			"50"
 		"zpos"			"7"
-		"wide"			"20"
-		"tall"			"20"
+		"wide"			"25"
+		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	

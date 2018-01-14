@@ -17,7 +17,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"r115"	[$WIN32]
-		"ypos"	"c128"	[$WIN32]
+		"ypos"	"c171"	[$WIN32]
 		"wide"	"190"
 		"tall"	"56"
 	}
@@ -72,9 +72,9 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r185"	[$WIN32]
-		"ypos"			"c100"	[$WIN32]
-		"wide"			"370"
+		"xpos"			"r178"	[$WIN32]
+		"ypos"			"c171"	[$WIN32]
+		"wide"			"178"
 		"tall"			"100"
 	}
 	
