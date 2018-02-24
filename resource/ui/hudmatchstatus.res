@@ -593,7 +593,7 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"		"BlueTeamBG"
-			"xpos"			"300"
+			"xpos"			"0"
 			"ypos"			"10"
 			"zpos"			"2"
 			"wide"			"147"
