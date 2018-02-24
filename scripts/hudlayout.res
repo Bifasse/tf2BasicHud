@@ -1021,10 +1021,10 @@
 		"enabled"		"1"
 		"xpos"			"r115"	[$WIN32]
 		"xpos_minmode"	"r110"	[$WIN32]
-		"ypos"			"r90"	[$WIN32]
+		"ypos"			"r91"	[$WIN32]
 		"ypos_minmode"	"r30"	[$WIN32]
 		"wide"			"120"
-		"tall"			"20"
+		"tall"			"22"
 	}	
 
 	HudTeamGoal
