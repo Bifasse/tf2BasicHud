@@ -110,11 +110,12 @@
 		"tall"			"8"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"fgcolor_override" "255 0 0 255"
 	}		
 
 	"ChargeMeter1"
